@@ -112,8 +112,8 @@ python ps5.py
 **Isadora Soares Couto**
 Estudante de Ciência da Computação — FIAP
 
-- GitHub: [[@thvdora](https://github.com/thvdora)
-- LinkedIn: (https://www.linkedin.com/in/isadora-couto/)
+- GitHub: [@thvdora](https://github.com/thvdora)
+- LinkedIn: https://www.linkedin.com/in/isadora-couto
 
 ## Aviso:
 Os enunciados dos exercícios pertencem ao curso da edX. Este repositório contém apenas as minhas soluções, para fins de estudo e portfólio.
